@@ -9,6 +9,7 @@
 >- legitimate entity.
 >- It will lead to information disclosure and property damage.
 >- Large organizations may get trapped in different kinds of scams.
+>- Financial loss
 
  
 ## Team Details
