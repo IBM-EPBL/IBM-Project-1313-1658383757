@@ -1,4 +1,4 @@
-![IBM]("IBM")
+<img src="https://www.promptcloud.com/wp-content/uploads/2015/01/ibm-logo.jpg" alt="Web Phishing">
 # IBM-Project-1313-1658383757
 ## Web Phishing Detection
 
@@ -18,7 +18,7 @@
 ### Team ID = PNT2022TMID42214 
 
 ### **Team members:**
->- person 1: [Mohan raj K](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assessments/Team%20lead%20-Mohan%20raj) (Team lead)
->- person 2: [Hariharan S](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assessments/TM1-%20Hariharan%20s)
->- person 3: [Diwahar S](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assessments/TM2%20-Diwahar%20s)
->- person 4:[Karpagam C](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assessments/TM3%20-Karpagam)
+>- person 1: [Mohan raj K] (Team lead) | <a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/Team%20lead%20-Mohan%20raj">Assignments</a> 
+>- person 2: [Hariharan S]|<a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/TM1-%20Hariharan%20s">Assignments</a>
+>- person 3: [Diwahar S]  | <a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/TM2%20-Diwahar%20s">Assignments</a>
+>- person 4: [Karpagam C] | <a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/TM3%20-Karpagam">Assignments</a>
