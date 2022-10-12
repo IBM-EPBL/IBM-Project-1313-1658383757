@@ -1,4 +1,4 @@
-![IBM](https://www.promptcloud.com/wp-content/uploads/2015/01/ibm-logo.jpg"IBM")
+![IBM]("IBM")
 # IBM-Project-1313-1658383757
 ## Web Phishing Detection
 
