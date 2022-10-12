@@ -20,6 +20,6 @@
 
 ### **Team members:**
 >- person 1: [Mohan raj K] (Team lead) | <a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/Team%20lead%20-Mohan%20raj">Assignments</a> 
->- person 2: [Hariharan S]|<a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/TM1-%20Hariharan%20s">Assignments</a>
->- person 3: [Diwahar S]  | <a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/TM2%20-Diwahar%20s">Assignments</a>
->- person 4: [Karpagam C] | <a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/TM3%20-Karpagam">Assignments</a>
+>- person 2: [Hariharan S] |<a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/TM1-%20Hariharan%20s">Assignments</a>
+>- person 3: [Diwahar S]   | <a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/TM2%20-Diwahar%20s">Assignments</a>
+>- person 4: [Karpagam C]  | <a href="https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Assignments/TM3%20-Karpagam">Assignments</a>
