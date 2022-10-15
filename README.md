@@ -1,4 +1,4 @@
-<img src="https://www.promptcloud.com/wp-content/uploads/2015/01/ibm-logo.jpg" alt="Web Phishing">
+<img src="https://www.promptcloud.com/wp-content/uploads/2015/01/ibm-logo.jpg" width="200px" height="200px" alt="Web Phishing">
 
 # IBM-Project-1313-1658383757
 ## Web Phishing Detection
