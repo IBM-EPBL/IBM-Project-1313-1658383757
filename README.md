@@ -56,7 +56,7 @@
 - [Milestones & Tasks✅](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
 
 # [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Project%20Development%20Phase)
-- [Sprint 1⌛](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Project%20Development%20Phase/Sprint%20-1) <br>
+- [Sprint 1✅](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Project%20Development%20Phase/Sprint%20-1) <br>
 - [Sprint 2✅](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Project%20Development%20Phase/Sprint%20-2) <br>
 - [Sprint 3✅](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Project%20Development%20Phase/Sprint%20-3) <br>
-- [Sprint 4⌛](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Project%20Development%20Phase/Sprint%20-4)
+- [Sprint 4✅](https://github.com/IBM-EPBL/IBM-Project-1313-1658383757/tree/main/Project%20Development%20Phase/Sprint%20-4)
